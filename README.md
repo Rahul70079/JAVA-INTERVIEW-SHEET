@@ -24,7 +24,6 @@ Revise regularly before interviews.
 
 🤝 Contributing
 Contributions are welcome!
-
 Add new questions with answers
 
 Suggest better explanations
