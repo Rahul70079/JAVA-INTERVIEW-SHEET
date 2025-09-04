@@ -17,7 +17,7 @@ It covers **basic, intermediate, and advanced** Java concepts along with commonl
 ## 🚀 How to Use  
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/java-interview-sheet.git
+  https://github.com/Rahul70079/JAVA-INTERVIEW-SHEET
 Open the questions.md or notes.md file for interview questions.
 
 Revise regularly before interviews.
