@@ -33,6 +33,3 @@ Improve formatting
 
 📜 License
 This project is licensed under the MIT License – free to use and share.
-
-pgsql
-Copy code
